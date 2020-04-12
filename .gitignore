@@ -3,3 +3,4 @@ new-file.txt
 # folder ignore
 bin/
 # some specific file ignored
+*.temp
